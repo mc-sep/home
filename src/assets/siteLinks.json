@@ -19,6 +19,11 @@
     "name": "站点检测",
     "link": "https://status-blog.mc-sep.top/"
   },
+    {
+    "icon": "Compass",
+    "name": "Proxy代理",
+    "link": "https://proxy.mc-sep.top/"
+  },
   {
     "icon": "Book",
     "name": "友链检测",
